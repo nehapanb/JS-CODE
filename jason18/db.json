@@ -1,0 +1,15 @@
+
+    {
+        "students":[
+            {
+            "name":"Neha",
+            "age":24,
+            "address":"bhopal"
+            },
+            {
+                "name":"Manya",
+                "age":24,
+                "address":"bhopal"
+            }
+        ]
+    } 
