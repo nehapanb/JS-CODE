@@ -1,3 +1,28 @@
 {
-  "students": []
+  "students": [
+    {
+      "id": "493b",
+      "name": "Neha Panbude",
+      "age": "24",
+      "address": "bhopal"
+    },
+    {
+      "name": "ujuj",
+      "age": "88",
+      "address": "hyhy",
+      "id": "6a3f"
+    },
+    {
+      "id": "567f",
+      "name": "Manya",
+      "age": "24",
+      "address": "Bhopal"
+    },
+    {
+      "id": "5c7d",
+      "name": "jiji",
+      "age": "22",
+      "address": "hudyuedh"
+    }
+  ]
 }
